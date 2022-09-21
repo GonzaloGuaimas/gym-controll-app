@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "714743319753",
+    "firebase_url": "https://powermax-database-default-rtdb.firebaseio.com",
+    "project_id": "powermax-database",
+    "storage_bucket": "powermax-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714743319753:android:c21fb98b3865c32f4c5118",
+        "android_client_info": {
+          "package_name": "com.example.gymsoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82uj9P4YRu1yt_BVONgN52eYlbhPfsts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714743319753:android:0da5d106e721b36d4c5118",
+        "android_client_info": {
+          "package_name": "com.gonzaloguaimas.powermaxgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82uj9P4YRu1yt_BVONgN52eYlbhPfsts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714743319753:android:4a29076cb3f7a7be4c5118",
+        "android_client_info": {
+          "package_name": "com.gonzaloguaimas.powermaxgymusuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82uj9P4YRu1yt_BVONgN52eYlbhPfsts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714743319753:android:60eba63c2249865e4c5118",
+        "android_client_info": {
+          "package_name": "com.gonzaloguaimas.powermaxtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82uj9P4YRu1yt_BVONgN52eYlbhPfsts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714743319753-r3amski8qcrpb3jblauj71iaubj9deb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

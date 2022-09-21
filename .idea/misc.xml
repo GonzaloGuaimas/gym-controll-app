@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_arqueo.xml" value="0.75" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_cobrar_actividad.xml" value="0.75" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_configuracion.xml" value="0.9" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_estadisticas.xml" value="0.75" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_ingresos_egresos.xml" value="0.67" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/activity_usuarios.xml" value="0.75" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/cartel.xml" value="0.3625" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/contrasena.xml" value="0.3625" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/contraseña.xml" value="0.33" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/frag_buscar.xml" value="0.3625" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_actividad.xml" value="0.54375" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_arqueo.xml" value="0.67" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_cobro.xml" value="0.75" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_forma_pago.xml" value="0.54375" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_ing_egr_cob.xml" value="0.54375" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/layout/item_usuario.xml" value="1.0" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.56796875" />
+        <entry key="..\:/Users/Gonzalo/AndroidStudioProjects/GymSoftware/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.378125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

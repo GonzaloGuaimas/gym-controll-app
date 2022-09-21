@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Power Max</string>
+
+    <string-array name="turnos">
+        <item>Ambos</item>
+        <item>TM</item>
+        <item>TT</item>
+    </string-array>
+</resources>
